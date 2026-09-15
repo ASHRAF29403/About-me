@@ -1,62 +1,116 @@
-## Hi there, I'm [Ashraf Nabil] 👋
+# Hi there, I'm Ashraf Nabil 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
-</div>
-
-<!-- 🔗 Update these links with your own social media and contact information -->
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Junior+Machine+Learning+%26+Data+Analyst;Turning+Data+into+Actionable+Insights;Artificial+Intelligence+%26+Data+Science;Power+BI+%7C+Python+%7C+SQL" align="center">
+  nabilashraf240@gmail.com
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.com
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+---
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+## 🚀 About Me
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I'm a Computer Science graduate specialized in Artificial Intelligence and Data Science. Passionate about transforming raw data into meaningful insights through data analysis, visualization, and machine learning.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+I enjoy working with Python, Power BI, SQL, and Excel to clean data, build dashboards, create predictive models, and support data-driven decision making.
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+My goal is to continuously develop my analytical and machine learning skills while contributing to real-world business solutions.
 
-## 🌱 Currently Learning 
+---
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+## 🔭 What I'm Currently Working On
+
+- Building end-to-end Data Analysis projects using Excel, SQL, Python, and Power BI.
+- Improving my Machine Learning projects with better feature engineering and model evaluation.
+- Expanding my portfolio with business dashboards and predictive analytics solutions.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Data Analytics techniques.
+- Machine Learning model optimization.
+- Data Warehousing and Business Intelligence concepts.
+- Advanced SQL for analytics.
+
+---
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+### 📊 Data Analysis & Visualization
 
-#### Data Analysis & Visualization
-<p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-</p>
+![Excel](https://img.shields.io/badge/Excel-Advanced-yle=flat&logo=microsoft-excel&logoColor=white
+![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-F2C811logo=powerbi&logoColor=black
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Advanced-bluecs](https://img.shields.io/badge/Statistical%20Analysis-ECDC4?style=flat
 
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-</p>
+### 💻 Programming & Data Science
 
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
-</p>
+![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&sql&logoColor=white
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-style=flat
+
+### 📈 Business Intelligence
+
+![Power Query](https://img.shields.io/badge/Power%20Query-Advanced-yellowAX](https://img.shields.io/badge/DAX-Intermediate-blue?style=KPI Development](https://img.shields.io/badge/KPI%20Development-Intermediate[Reporting](https://img.shields.io/badge/Data%20Reportingple?style=flat
+
+---
+
+## 📂 Featured Projects
+
+### 📊 Sales Data Analysis Project
+- Cleaned and transformed sales data using Excel and Power Query.
+- Analyzed sales trends, product performance, and regional performance.
+- Built interactive Power BI dashboards.
+- Generated business insights to support decision-making.
+
+### 📈 Business Performance Dashboard
+- Designed an interactive Power BI dashboard.
+- Created DAX measures for KPIs including:
+  - Total Sales
+  - Total Profit
+  - Profit Margin
+  - Sales Growth
+- Developed dynamic visualizations and filtering capabilities.
+
+### 🤖 Machine Learning Prediction Projects
+- Performed Data Cleaning and EDA.
+- Applied Feature Engineering techniques.
+- Trained and evaluated multiple machine learning models.
+- Compared performance using appropriate evaluation metrics.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Science**  
+Faculty of Computers and Informatics, Zagazig University
+
+**Specialization:** Artificial Intelligence and Data Science
+
+---
+
+## 📚 Certifications & Courses
+
+- SQL Course — Ahmed Sami
+- Power BI Course — Mazen Analytics
+- Excel Course — Mazen Analytics
+- Machine Learning Course — Hisham Assem
+- Statistics Course — Hisham Assem
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **nabilashraf240@gmail.com**
+
+📱 Phone: **+20 1127525976**
+
+---
+
+### 💡 Quote
+
+*"Without data, you're just another person with an opinion."* — W. Edwards Deming
